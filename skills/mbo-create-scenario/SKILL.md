@@ -1,5 +1,5 @@
 ---
-name: mbo-create-scenario
+name: media-budget- optimizer-create
 description: Turn a natural-language ask about media budget optimization into a properly configured MBO scenario — collect required settings, parse budget/goal/constraints, validate provisioning + scope, propose saturation locks, and create via budget-optimizer-create. Also handles modify (rename, edit, delete) on existing scenarios.
 category: mbo
 risk: R1
