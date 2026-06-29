@@ -1,5 +1,5 @@
 ---
-name: mbo-read-scenario
+name: media-budget-optimizer-read
 description: Interpret existing MBO scenario results across five modes — basic_read (single scenario), scenario_compare (diff two), mbo_vs_attribution / mbo_vs_lift_test / mbo_vs_actual (reconcile MBO against other measurement sources). Routes "how much should I spend" to mbo-create-scenario; this skill is read-only.
 category: mbo
 risk: R0
